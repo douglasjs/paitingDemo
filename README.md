@@ -1,4 +1,4 @@
-# Paitings Products Sales Online
+# PaitingDemo Project
 
 This project is to demo an online sale website using Angular.
 I also built a mock API to provide data to this Angular App.
