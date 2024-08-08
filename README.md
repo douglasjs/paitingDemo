@@ -1,6 +1,6 @@
 # Paitings Products Sales Online
 
-This project is to demo a online sale website using Angular.
+This project is to demo an online sale website using Angular.
 
 ## Version Info
 
@@ -8,6 +8,7 @@ Angular CLI: 18.1.2
 Node: 20.16.0
 Package Manager: npm 10.8.1
 
+![Version](https://github.com/douglas/paitingDemo/blob/main/readmeImages/VERSION.png?raw=true)
 
 ## Start API
 
