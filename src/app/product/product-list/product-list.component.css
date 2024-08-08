@@ -1,0 +1,28 @@
+.product-card {
+    max-width: 150px;
+    /* margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    box-shadow: 2px 2px 2px #ccc; */
+}
+
+mat-card:hover {
+    transform: scale(1.10);
+    background-color: #f0f0f0;
+    cursor: pointer;
+}
+
+mat-card-title {
+    transition: transform 0.2s;
+}
+
+mat-card-subtitle {
+    font-size: 14px;
+    color: #979797;
+}
+
+.sort-dropdown {
+    margin-left: 20px;
+}
