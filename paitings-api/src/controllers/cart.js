@@ -2,9 +2,6 @@
 let carts = [];
 
 const CartsController = {
-    helloWorld: (req, res) => {
-        res.json("Hello, World!");
-    },
     getCartItems: (req, res) => {
         res.json(carts);
     },

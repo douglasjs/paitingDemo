@@ -108,18 +108,9 @@ let products = [
         quantity: 1,
         category: "Category 12",
     }
-
-
-
-
-
-    
 ];
 
 const ProductsController = {
-    helloWorld: (req, res) => {
-        res.json("Hello, World!");
-    },
     getProducts: (req, res) => {
         res.json(products);
     },
